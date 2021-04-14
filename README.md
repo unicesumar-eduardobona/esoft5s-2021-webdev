@@ -2,7 +2,7 @@
 
 ## Objetivos da Disciplina:
 
-### Técnicos
+### Teóricos:
 
 ### Práticos:
 
@@ -11,6 +11,9 @@ Desenvolver uma interface completa similar ao material de podcasts do portal G1:
 
 Repositório:
 - https://github.com/unicesumar-eduardobona/podcasts
+
+### Estudos de Caso:
+- https://github.com/unicesumar-eduardobona/albuns-php
 
 ## 1ro Bimestre
 
