@@ -6,8 +6,11 @@
 
 ### Práticos:
 
-- Desenvolver uma interface completa similar ao material de podcasts do portal G1.
-https://interativos.globoesporte.globo.com/podcasts/programa/cartolacast/
+Desenvolver uma interface completa similar ao material de podcasts do portal G1:
+- https://interativos.globoesporte.globo.com/podcasts/programa/cartolacast/
+
+Repositório:
+- https://github.com/unicesumar-eduardobona/podcasts
 
 ## 1ro Bimestre
 
